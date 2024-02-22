@@ -1,7 +1,7 @@
 # 🌟 Polestar: Sentiment Analysis of Vehicle Interiors Project
 
 ## About The Project 📖
-This project is a collaboration between the University of Manchester and Polestar, focusing on sentiment analysis of vehicle interiors from online published opinions. Our aim is to evaluate media and driver feedback on materials and technologies used within electric vehicle interiors, supporting Polestar's commitment to sustainability and innovation.
+This project is a collaboration between the University of Manchester and Polestar, focusing on sentiment analysis of vehicle interiors from online published opinions. We aim to evaluate media and driver feedback on materials and technologies used within electric vehicle interiors, supporting Polestar's commitment to sustainability and innovation.
 
 ## Project Timeline 📅
 - **Week 1-2:** Initiation - Kick-off, requirement gathering, scope definition, KPI identification, and project plan drafting.
@@ -21,16 +21,10 @@ This project is a collaboration between the University of Manchester and Polesta
 - **Risk Management:** Strategies to address data quality, time management, team coordination, and technical challenges.
 
 ## Getting Started 🌱
-(Provide instructions on how to set up the project locally, prerequisites, and how to run the project.)
+(We will provide instructions on how to set up the project locally, prerequisites, and how to run the project.)
 
 ## Contributing 🤝
-(Instructions for contributing to the project, including code of conduct and the process for submitting pull requests.)
-
-## License 📄
-(Information about the project's license.)
-
-## Contact 📞
-(Your contact information or the project team's contact information.)
+(We will provide instructions for contributing to the project, including the code of conduct and the process for submitting pull requests.)
 
 ## Acknowledgements 💖
 (Any acknowledgements or credits to collaborators, contributors, etc.)
