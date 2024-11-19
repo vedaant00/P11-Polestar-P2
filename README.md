@@ -1,7 +1,12 @@
 # 🌟 Polestar: Sentiment Analysis of Vehicle Interiors Project
 
 ## About The Project 📖
-This project is a collaboration between the University of Manchester and Polestar, focusing on sentiment analysis of vehicle interiors from online published opinions. We aim to evaluate media and driver feedback on materials and technologies used within electric vehicle interiors, supporting Polestar's commitment to sustainability and innovation.
+This project is a collaborative effort between Polestar and the University of Manchester, leveraging sentiment analysis to gain insights into opinions about electric vehicle interiors. By analyzing feedback from online forums, news articles, and social media, the project evaluates user perceptions of materials and technologies, supporting Polestar's commitment to sustainability and innovation in electric mobility.
+
+## Key Highlights 🌟
+- **Objective:** Assess media and driver sentiment on electric vehicle interiors.
+- **Scope:** Evaluate opinions on materials, designs, and technologies to aid Polestar's design decisions.
+- **Impact:** Help Polestar align product innovations with user preferences and sustainability goals.
 
 ## Project Timeline 📅
 - **Week 1-2:** Initiation - Kick-off, requirement gathering, scope definition, KPI identification, and project plan drafting.
@@ -20,11 +25,5 @@ This project is a collaboration between the University of Manchester and Polesta
 - **Milestones:** Includes preparation and submission of assignments, focusing on data analytics, project management, and teamwork.
 - **Risk Management:** Strategies to address data quality, time management, team coordination, and technical challenges.
 
-## Getting Started 🌱
-(We will provide instructions on how to set up the project locally, prerequisites, and how to run the project.)
-
-## Contributing 🤝
-(We will provide instructions for contributing to the project, including the code of conduct and the process for submitting pull requests.)
-
-## Acknowledgements 💖
-(Any acknowledgements or credits to collaborators, contributors, etc.)
+## Why It Matters 🌱
+This project bridges the gap between technology and user feedback, aligning sustainable vehicle designs with real-world sentiments. It showcases the power of AI in shaping innovative, user-centered products.
